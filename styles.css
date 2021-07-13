@@ -113,6 +113,7 @@ body{
     }
 
     .attribution {
+        display:none;
         position: relative;
         left: 0;
         bottom: 0;
